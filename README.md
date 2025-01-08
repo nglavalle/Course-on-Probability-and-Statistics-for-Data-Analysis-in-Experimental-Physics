@@ -5,23 +5,24 @@ This repository contains a collection of notebooks focused on learning and apply
 ## Contents
 In the notebooks, you will find:
 
--**Calculation of basic probabilities:** Solving classic problems like the birthday problem and other probability exercises in everyday contexts.
--**Distributions and simulations:** Introduction to probability distributions (binomial, Poisson, normal) and their simulation using Monte Carlo methods.
--**Statistical data analysis:** Exploration of statistical properties such as mean, variance, covariance, and correlation, as well as visualization of marginal distributions.
--**Parameter estimation and uncertainty:** Maximum likelihood methods, curve fitting with uncertainty using curve_fit, and error propagation.
--**Random variables and the Central Limit Theorem:** Simulation of discrete and continuous variables, convergence demonstrations, and estimation of constants like π.
--**Confidence intervals and hypothesis testing:** Statistical analysis of classic distributions, calculation of confidence intervals, and tests such as Kolmogorov-Smirnov for distribution comparison.
--**Classification with machine learning:** Application of linear and quadratic discriminators, as well as image classification with Fashion MNIST using TensorFlow and Keras.
+- **Calculation of basic probabilities:** Solving classic problems like the birthday problem and other probability exercises in everyday contexts.
+- **Distributions and simulations:** Introduction to probability distributions (binomial, Poisson, normal) and their simulation using Monte Carlo methods.
+- **Statistical data analysis:** Exploration of statistical properties such as mean, variance, covariance, and correlation, as well as visualization of marginal distributions.
+- **Parameter estimation and uncertainty:** Maximum likelihood methods, curve fitting with uncertainty using curve_fit, and error propagation.
+- **Random variables and the Central Limit Theorem:** Simulation of discrete and continuous variables, convergence demonstrations, and estimation of constants like π.
+- **Confidence intervals and hypothesis testing:** Statistical analysis of classic distributions, calculation of confidence intervals, and tests such as Kolmogorov-Smirnov for distribution comparison.
+- **Classification with machine learning:** Application of linear and quadratic discriminators, as well as image classification with Fashion MNIST using TensorFlow and Keras.
 
 ## Tools Used
 The following Python libraries and tools were employed in the notebooks:
 
--**Numpy:** For mathematical and statistical calculations.
--**Matplotlib:** For creating and customizing graphs.
--**Seaborn:** For advanced statistical visualizations.
--**Scipy:** For statistical functions such as probability distributions.
--**Pandas:** For data manipulation and covariance/correlation matrix calculations.
--**TensorFlow and Keras:** For machine learning and image classification.
+- **Numpy:** For mathematical and statistical calculations.
+- **Matplotlib:** For creating and customizing graphs.
+- **Seaborn:** For advanced statistical visualizations.
+- **Scipy:** For statistical functions such as probability distributions.
+- **Pandas:** For data manipulation and covariance/correlation matrix calculations.
+- **TensorFlow and Keras:** For machine learning and image classification.
+
 
 ## License
 This project is distributed under the MIT License.
