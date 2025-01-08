@@ -30,9 +30,8 @@ Lavalle N.
 
 
 
-
-EN ESPAÑOL
-# Probabilidad y Estadística con Python
+## EN ESPAÑOL
+# Probabilidad y Estadística para el Análisis de Datos en Física Experimental
 
 Este repositorio contiene una colección de notebooks enfocados en el aprendizaje y aplicación de conceptos de probabilidad, estadística y simulaciones utilizando Python. Los notebooks abordan una amplia gama de temas, desde fundamentos de probabilidad hasta técnicas avanzadas de análisis y modelado estadístico.
 
