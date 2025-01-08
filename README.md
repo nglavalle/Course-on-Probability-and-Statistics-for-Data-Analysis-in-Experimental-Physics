@@ -12,6 +12,7 @@ In the notebooks, you will find:
 **Random variables and the Central Limit Theorem:** Simulation of discrete and continuous variables, convergence demonstrations, and estimation of constants like π.
 **Confidence intervals and hypothesis testing:** Statistical analysis of classic distributions, calculation of confidence intervals, and tests such as Kolmogorov-Smirnov for distribution comparison.
 **Classification with machine learning:** Application of linear and quadratic discriminators, as well as image classification with Fashion MNIST using TensorFlow and Keras.
+
 ## Tools Used
 The following Python libraries and tools were employed in the notebooks:
 
